@@ -1,0 +1,43 @@
+.color{
+    background-color: rgb(245, 245, 245);
+}
+.border{
+    border: 2px dashed teal;
+    color: blueviolet;
+}
+.color1{
+    color: blue;
+    border: 1px solid green;
+}
+.color2{
+    color: orangered;
+    border: 1px dotted black;
+}
+.color3{
+    color: deeppink;
+    border-style: dotted dashed solid double;
+}
+.bgcolor{ 
+    border: 1px dashed blue;
+    background-color: rgb(245, 234, 199);
+}
+.number1{
+    background-color: rgb(16, 99, 194);
+}
+.text1{
+    color: white;
+    background-color: rgb(7, 67, 117);
+}
+.bgcolor1{
+    color: white;
+}
+.number2{
+    background-color: rgb(4, 143, 48);
+}
+.text2{
+    color: white;
+    background-color: rgb(7, 107, 4);
+}
+.bgcolor2{
+    color: white;
+}
